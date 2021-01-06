@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-yun-9709b0170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joshua-yun-9709b0170/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/joshposh555/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/joshposh555/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-yun-9709b0170/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/joshua-yun-9709b0170/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/joshposh555/" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" alt="https://www.facebook.com/joshposh555/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yujohwan/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="https://leetcode.com/yujohwan/" height="30" width="40" /></a>
 </p>
 
