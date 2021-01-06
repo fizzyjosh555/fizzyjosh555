@@ -20,3 +20,5 @@
 <a href="https://www.leetcode.com/https://leetcode.com/yujohwan/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="https://leetcode.com/yujohwan/" height="40" width="45" /></a>
 </p>
 
+| Default Header | Left Align | Right Align | Center Align |
+| -------------- | :--------- | ----------: | :----------: |
