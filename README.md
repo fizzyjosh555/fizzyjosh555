@@ -6,7 +6,7 @@
 
 - 📫 You can reach me through **kwbin6022@gmail.com** or one of the following links under **Social Media.**
 
-<h3 align="left">[Languages]</h3>
+<h3 align="left">[ Languages ]</h3>
 <p align="left"> <a href="https://github.com/fizzyjosh555"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://github.com/fizzyjosh555"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://github.com/fizzyjosh555"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
