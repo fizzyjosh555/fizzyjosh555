@@ -15,4 +15,4 @@
 <a href="https://www.linkedin.com/in/joshua-yun-9709b0170/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/joshua-yun-9709b0170/" height="37" width="40" /></a>
 <a href="https://fb.com/joshposh555/" target="blank"><img align="center" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" alt="https://www.facebook.com/joshposh555/" height="53" width="53" /></a>
 <h3 align="left">[ Other ]</h3>
-<a href="https://leetcode.com/YujoHwan/" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="https://www.facebook.com/joshposh555/" height="53" width="53" /></a>
+<a href="https://leetcode.com/YujoHwan/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://www.facebook.com/joshposh555/" height="53" width="53" /></a>
