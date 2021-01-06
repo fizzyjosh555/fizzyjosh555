@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-yun-9709b0170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joshua-yun-9709b0170/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/joshposh555/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/joshposh555/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/yujohwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/yujohwan/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/yujohwan/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="https://leetcode.com/yujohwan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
