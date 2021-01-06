@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Yun</h1>
+<h1 align="center">Hi, I'm Joshua Yun</h1>
 <h3 align="center">A CS student actively looking for SWE/Full Stack internships.</h3>
 
 - 🔭 I’m currently working on [a Netflix Clone](https://github.com/fizzyjosh555/yourflix)
