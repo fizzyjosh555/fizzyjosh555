@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Josh!</h1>
 
-- 🔭 I’m currently working on [a Netflix Clone](https://github.com/fizzyjosh555/yourflix)
-
-- 🌱 I’m currently learning **the MERN stack**
-
 - 📫 You can reach me through **kwbin6022@gmail.com** or one of the following links under **Social Media.**
 
 <h3 align="left">[ Languages ]</h3>
