@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Josh!</h1>
 
-- 📫 You can reach me through **kwbin6022@gmail.com** or one of the following links under **Social Media.** Feel free to also check out my <a href="joshyun.live">website</a>.
+- 📫 You can reach me through **kwbin6022@gmail.com**, one of the following links under **Social Media**, or through my personal website.
 
 <h3 align="left">[ Languages ]</h3>
 <p align="left"> <a href="https://github.com/fizzyjosh555"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
